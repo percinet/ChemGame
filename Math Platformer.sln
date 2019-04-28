@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Platformer", "Assembly-CSharp.csproj", "{6B2BE99C-AB2C-408B-2BC8-1D9E4974FD3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2BE99C-AB2C-408B-2BC8-1D9E4974FD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2BE99C-AB2C-408B-2BC8-1D9E4974FD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2BE99C-AB2C-408B-2BC8-1D9E4974FD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2BE99C-AB2C-408B-2BC8-1D9E4974FD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
